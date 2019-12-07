@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AMS1117")(type "KiCad")(uri "F:/bebedero de animales automatizado/Librerias/Huellas/AMS1117")(options "")(descr ""))
+  (lib (name "PAM8403")(type "KiCad")(uri "F:/bebedero de animales automatizado/Librerias/Huellas/PAM8403")(options "")(descr ""))
+  (lib (name "PC817")(type "KiCad")(uri "F:/bebedero de animales automatizado/Librerias/Huellas/PC817")(options "")(descr ""))
+  (lib (name "MINI360")(type "KiCad")(uri "D:/bebedero de animales automatizado/Librerias/Huellas/MINI360")(options "")(descr ""))
+  (lib (name "MINI3602")(type "KiCad")(uri "D:/bebedero de animales automatizado/Librerias/Huellas/MINI3602")(options "")(descr ""))
+  (lib (name "RELE5V")(type "KiCad")(uri "D:/bebedero de animales automatizado/Librerias/Huellas/RELE5V")(options "")(descr ""))
+)

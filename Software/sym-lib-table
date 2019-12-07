@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AMS1117-3.3")(type "KiCad")(uri "F:/bebedero de animales automatizado/Librerias/Componentes/AMS1117-3.3.kicad_sym")(options "")(descr ""))
+  (lib (name "pam8403")(type "KiCad")(uri "F:/bebedero de animales automatizado/Librerias/Componentes/pam8403.kicad_sym")(options "")(descr ""))
+  (lib (name "PC817")(type "KiCad")(uri "F:/bebedero de animales automatizado/Librerias/Componentes/PC817X2NIP1B.kicad_sym")(options "")(descr ""))
+)
